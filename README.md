@@ -1,3 +1,1 @@
-### IPTRADE COPIER RELEASES
-
-Look https://github.com/jometa9/iptradecopier-releases/releases/tag/1.0.0
+<img alt="IPTRADE" src="https://github.com/user-attachments/assets/796d61e1-0e38-4080-b820-07faa6d9f134" />

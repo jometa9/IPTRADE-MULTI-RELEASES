@@ -1,1 +1,2 @@
-<img alt="IPTRADE" src="https://github.com/user-attachments/assets/796d61e1-0e38-4080-b820-07faa6d9f134" />
+
+<img alt="IPTRADE" src="https://github.com/user-attachments/assets/e9b49cd3-ac86-4704-a861-2024fa946f34" />
